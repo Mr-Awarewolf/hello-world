@@ -1,1 +1,13 @@
-<p>Hello, this is me</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>My html practice page</title>
+</head>
+
+<body>
+<h1>My html practice page</h1>
+<h3>Truly, we are now rolling</h3>
+<p>This will be the practice page for all my html shenanigans
+<br>
+I hope I can actually learn this stuff and do the world some good</p>
