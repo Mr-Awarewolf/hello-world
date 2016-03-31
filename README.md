@@ -1,2 +1,2 @@
 # hello-world
-edting this shiz
+practicing html and css
